@@ -36,8 +36,8 @@ I’m currently learning Laravel, ReactJs, ExpressJs.
 <p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="penjelasan/Slide9.JPG" /></a></p>
 <br />
 
-<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="penjelasan/Slide1.JPG0" /></a></p>
+<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="penjelasan/Slide10.JPG" /></a></p>
 <br />
 
-<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="penjelasan/Slide1.JPG1" /></a></p>
+<p align="center"><a href="https://wahyupambudi.github.io"><img width="80%" alt="Hello, I'm Wahyu Pambudi. I'm Learner!" src="penjelasan/Slide11.JPG" /></a></p>
 <br />
